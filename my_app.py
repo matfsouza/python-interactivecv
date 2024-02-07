@@ -5,7 +5,7 @@ document = Document()
 
 # profile picture
 document.add_picture(
-    'picture.jpg', 
+    'picture.png', 
     width=Inches(2.0)
 )
 
