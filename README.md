@@ -1,1 +1,1 @@
-# python-interactivecv
+# Python Interactive Curriculum Vitae
