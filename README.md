@@ -3,4 +3,4 @@
 ##Instalation
 run 'python-install -r requirements.txt'
 
-![cv](https://github.com/matfsouza/python-interactivecv/assets/159208767/06e37ab8-4217-46c8-9743-57544540677e)
+![cv_page-0001](https://github.com/matfsouza/python-interactivecv/assets/159208767/b7c08d07-6b2f-41c0-835e-ac28539c49b2)
